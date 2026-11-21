@@ -23,5 +23,3 @@ By Abhaya....
    ## GitHub Repository Link
 https://github.com/Abhaya80/Code-orbit-Internship-Projects 
 
-## GitHub Repository Link
-https://github.com/Abhaya80/Code-orbit-Internship-Projects
